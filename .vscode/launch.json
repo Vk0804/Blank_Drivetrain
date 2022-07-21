@@ -6,7 +6,7 @@
   "configurations": [
 
     {
-      "type": "wpilib",
+      "type": "wpilib",1
       "name": "WPILib Desktop Debug",
       "request": "launch",
       "desktop": true,
